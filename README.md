@@ -22,9 +22,9 @@ pip install -r requirements.txt
 ```bash
 python face_attendance.py
 ```
-#GraphiWaveMotion License
+##GraphiWaveMotion License
 
-Copyright (c) 2025 Manigandan
+Copyright (c) 2025 graphiwavemotion
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -52,9 +52,10 @@ out of, or in connection with the Software or the use or other dealings in the
 Software.
 
 For questions, contributions, or licensing clarifications, please contact:
-[GitHub: https://github.com/your-username]
+GitHub: https://github.com/graphiwavemotion
 
 Made with ❤️ by GraphiWaveMotion
+
 
 
 
