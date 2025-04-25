@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```bash
 python face_attendance.py
 ```
-##GraphiWaveMotion License
+GraphiWaveMotion License
 
 Copyright (c) 2025 graphiwavemotion
 
